@@ -1,5 +1,4 @@
-# Projeto HQ Ágil: O Despertar de AURA
-
+# Projeto HQ Ágil: Nome a definir
 Repositório oficial para o desenvolvimento colaborativo da História em Quadrinhos utilizando metodologias ágeis (Scrum e Kanban) e geradores de imagens por Inteligência Artificial.
 
 ## Integrantes da Equipe (Grupo: A definir)
