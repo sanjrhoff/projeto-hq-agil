@@ -6,7 +6,7 @@ Repositório oficial para o desenvolvimento colaborativo da História em Quadrin
 - Vitor Luís
 - João Antônio
 - Breno Paim
-- Aluno
+- Caio Castelan
 
 ## Objetivos do Projeto
 Desenvolver uma história em quadrinhos completa com no mínimo 10 quadrinhos ao longo de 4 Sprints (4 semanas), aplicando na prática os ritos e artefatos do Scrum (Product Backlog, Sprint Backlog) e a gestão visual de fluxo com Kanban.
