@@ -34,6 +34,7 @@ Caçada implacavelmente pelos agentes cibernéticos da corporação através de 
 
 ## Links de Gerenciamento Ágil (Scrum & Kanban)
 - **Repositório Principal (Branch `main`):** https://github.com/sanjrhoff/projeto-hq-agil
+- **Pasta da HQ Finalizada (`neo-veridia`):** https://github.com/sanjrhoff/projeto-hq-agil/tree/main/neo-veridia
 - **Local e Lista do Product Backlog (GitHub Issues):** https://github.com/sanjrhoff/projeto-hq-agil/issues
-- **Sprint Backlog - 1ª Sprint (GitHub Milestone):** https://github.com/sanjrhoff/projeto-hq-agil/milestones
+- **Sprint Backlog (GitHub Milestone):** https://github.com/sanjrhoff/projeto-hq-agil/milestones
 - **Quadro Kanban (GitHub Projects):** https://github.com/users/sanjrhoff/projects/1/views/1
