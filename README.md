@@ -37,4 +37,8 @@ Caçada implacavelmente pelos agentes cibernéticos da corporação através de 
 - **Pasta da HQ Finalizada (`neo-veridia`):** https://github.com/sanjrhoff/projeto-hq-agil/tree/main/neo-veridia
 - **Local e Lista do Product Backlog (GitHub Issues):** https://github.com/sanjrhoff/projeto-hq-agil/issues
 - **Sprint Backlog (GitHub Milestone):** https://github.com/sanjrhoff/projeto-hq-agil/milestones
+- **Sprint 1 Backlog (GitHub Milestone):** https://github.com/sanjrhoff/projeto-hq-agil/milestones/1
+- **Sprint 2 Backlog (GitHub Milestone):** https://github.com/sanjrhoff/projeto-hq-agil/milestones/2
+- **Sprint 3 Backlog (GitHub Milestone):** https://github.com/sanjrhoff/projeto-hq-agil/milestones/3
+- **Sprint 4 Backlog (GitHub Milestone):** https://github.com/sanjrhoff/projeto-hq-agil/milestones/4
 - **Quadro Kanban (GitHub Projects):** https://github.com/users/sanjrhoff/projects/1/views/1
